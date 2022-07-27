@@ -127,4 +127,4 @@
 //void s_clear(STACK* stack)
 //{
 //	for (; !s_empty(stack); s_pop(stack));
-//}
+//}sdasdsa
